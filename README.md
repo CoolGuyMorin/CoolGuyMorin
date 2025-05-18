@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on a weather station project
+🌱 I’m currently learning how to use github and how to use my raspberry pi
+
